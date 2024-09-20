@@ -1,0 +1,49 @@
+body{
+    background-color: cadetblue;
+}
+.container{
+    text-align: center;
+}
+h1{
+    font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700px;
+  font-style: normal;
+  font-size: 80px;
+  color:black;
+  text-shadow:2px 0 rgb(251, 9, 9) ;
+}
+.item{
+    display: inline-flexbox;
+    font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700px;
+    padding: 30px;
+    margin: 20px;
+    border: 20px solid;
+    border-radius: 15px;
+    font-size: 50px;
+    border-color:rgb(30, 104, 107);
+    text-shadow:1px 0 rgb(35, 6, 22);
+}
+.w{
+  background-image: url("./images/tom4.png"); 
+ }
+ .a{
+   background-image: url("./images/tom2.png");
+ }
+ .s{
+   background-image: url("./images/tom1.png");
+ }
+ .d{
+   background-image: url("./images/snare.png");
+ }
+ .j{
+   background-image: url("./images/kick.png");
+ }
+ .k{
+   background-image: url("./images/crash.png");
+ }
+ .l{
+  background-image: url("./images/tom3.png");
+ }
